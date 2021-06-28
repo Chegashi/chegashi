@@ -2,4 +2,4 @@
 <br/>
 ![jaeskim's stats](https://badge42.herokuapp.com/api/stats/mochegri)
 <br/>
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mochegri?cursus=C%20Piscine)](https://github.com/mochegri/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mochegri?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
