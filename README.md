@@ -8,7 +8,7 @@ Currently Working on my cursus to get that 42 certificate
 
 * 🌍  I'm based in marrakech
 * ✉️  You can contact me at [mohamed](mailto:mohamed)
-* 🚀  I'm currently working on [ft\_container]([http://https://github.com/Chegashi/ft_containers.42](https://github.com/moerradi/webserv))
+* 🚀  I'm currently working on [ft\_container]([http://https://github.com/Chegashi/ft_containers.42](https://github.com/moerradi/webserv)
 * 🧠  I'm learning cpp stl
 
 ### Skills
