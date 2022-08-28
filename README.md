@@ -1,7 +1,7 @@
 Hi 👋 My name is CHEGRI MOHAMED
 ===============================
 
-1337 Student (42 Network)
+[![<mochegri>'s 42 stats](https://badge.mediaplus.ma/darkblue/mochegri)](https://github.com/oakoudad/badge42)
 -------------------------
 
 Currently Working on my cursus to get that 42 certificate
