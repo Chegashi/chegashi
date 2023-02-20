@@ -8,8 +8,9 @@ Currently Working on my cursus to get that 42 certificate
 
 * 🌍  I'm based in marrakech
 * ✉️  You can contact me at [mohamed](mailto:mohamed)
-* 🚀  I'm currently working on [ft_transcendence](https://github.com/Chegashi/ft_transcendence.42)
-* 🧠  I'm learning full-stack web development
+* 🚀  I'm currently working in Um6p Dice
+* 🧠  I'm learning big data engineering
+ 
 
 ### Skills
 
