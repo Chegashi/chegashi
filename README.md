@@ -8,7 +8,7 @@ Currently Working on my cursus to get that 42 certificate
 
 * 🌍  I'm based in marrakech
 * ✉️  You can contact me at [mohamed](mailto:mohamed)
-* 🚀  I'm currently working in Um6p Dice
+* 🚀  I'm currently working in Um6p Dice (Digital Innovation Center of Excellence)
 * 🧠  I'm learning big data engineering
  
 
