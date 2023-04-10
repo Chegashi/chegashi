@@ -2,7 +2,6 @@ Hi 👋 My name is CHEGRI MOHAMED
 ===============================
 
 [![<mochegri>'s 42 stats](https://badge.mediaplus.ma/darkgray/mochegri)](https://github.com/oakoudad/badge42)
-[![mochegri's 42 stats](https://badge42.vercel.app/api/v2/cl0yx1v0j0158ns5shlllmdvb/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
 -------------------------
 
 Currently Working on my cursus to get that 42 certificate
