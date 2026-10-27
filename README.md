@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-chegri-b875801a3">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/mohamedchegri-datadevsecops">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:mohamed.chegri@yahoo.com">Email</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/Chegashi?tab=repositories">Repositories</a>
   &nbsp;·&nbsp;
@@ -12,7 +14,19 @@
 
 I’m **Mohamed Chegri**, a data engineer, business intelligence engineer, and full stack engineer.
 
-I’m interested in how data moves through a system: collecting and transforming it, making it useful for analysis, and building applications that put it in people’s hands. My projects span Python and data science, full stack web development, and systems programming through the **42 / 1337** curriculum.
+I build data pipelines and systems at **Mohammed VI Polytechnic University (UM6P)**, turning raw data into datasets for analytics and decision-making. My focus spans **data engineering**, **business intelligence**, and **full stack development**: from collecting and transforming data to building applications that make it useful.
+
+Based in **Morocco**, I hold a **Licence in Mathematics and Computer Science from Université Cadi Ayyad (2021)** and continue developing my software engineering skills through **1337 / the 42 Network**.
+
+## Experience
+
+**Data Engineer · UM6P**
+
+February 2023 — Present
+
+- Design, build, and operate data pipelines and systems.
+- Transform heterogeneous data into reliable datasets for analysis.
+- Support data-driven decisions across research and operations.
 
 ## Featured projects
 
@@ -39,6 +53,11 @@ My public data projects cover the foundations behind data engineering and analyt
 | **Full stack** | TypeScript · JavaScript · Next.js · React · HTML · CSS · Flask |
 | **Systems & infrastructure** | C · C++ · Linux · Shell · Docker · Git |
 
+## Completed courses & certifications
+
+- **Meta:** Full-Stack Web Development with React; Programming with JavaScript; React Basics; Introduction to Databases.
+- **Google:** Ask Questions to Make Data-Driven Decisions.
+
 ## More to explore
 
 [minishell](https://github.com/Chegashi/minishell.42) ·
@@ -50,4 +69,4 @@ These projects are where I work on the details behind applications: processes, H
 
 ---
 
-**Let’s connect:** [LinkedIn](https://www.linkedin.com/in/mohamed-chegri-b875801a3)
+**Let’s connect:** [LinkedIn](https://www.linkedin.com/in/mohamedchegri-datadevsecops) · [Email](mailto:mohamed.chegri@yahoo.com)
