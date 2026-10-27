@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Mohamed Chegri</title>
+  <desc id="desc">Data Engineering, Business Intelligence, and Full Stack Development. Chegashi, 42 and 1337.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#122b3b"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".035"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="20" fill="url(#grid)"/>
+  <rect x="56" y="56" width="40" height="4" rx="2" fill="#5eead4"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="56" y="96" font-size="14" letter-spacing="3" fill="#5eead4">CHEGASHI / MOCHEGRI</text>
+    <text x="56" y="163" font-size="52" font-weight="700" letter-spacing="-1" fill="#f1f5f9">Mohamed Chegri</text>
+    <text x="56" y="210" font-size="21" fill="#cbd5e1">Data Engineering · Business Intelligence · Full Stack Development</text>
+    <text x="56" y="268" font-size="15" fill="#94a3b8">Data. Insight. Applications.</text>
+    <text x="1144" y="268" text-anchor="end" font-size="15" fill="#94a3b8">42 / 1337</text>
+  </g>
+  <g transform="translate(1000 88)" fill="none" stroke="#5eead4" stroke-width="2" opacity=".5">
+    <path d="M0 50H40M40 50V10H80M40 50V90H80M80 10H120V50M80 90H120V50"/>
+    <circle cx="0" cy="50" r="7" fill="#122b3b"/>
+    <circle cx="40" cy="50" r="7" fill="#122b3b"/>
+    <circle cx="80" cy="10" r="7" fill="#122b3b"/>
+    <circle cx="80" cy="90" r="7" fill="#122b3b"/>
+    <circle cx="120" cy="50" r="7" fill="#122b3b"/>
+  </g>
+</svg>
